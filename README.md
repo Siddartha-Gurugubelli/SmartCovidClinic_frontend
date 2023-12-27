@@ -1,0 +1,1 @@
+# SmartCovidClinic_frontend
